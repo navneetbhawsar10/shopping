@@ -16,7 +16,7 @@ function Header(){
 
 
     <nav className="bg-slate-900 text-white h-16 text-start pt-6 mb-5">
-        <a className="text-blue-300 text-2xl mr-28 font-bold">Shoppo.in</a>
+        <a className="text-blue-300 text-2xl mr-28 font-bold">VAMN</a>
 
         <a className="mr-28 hover:border-2"> <NavLink to='/layout' className={({isActive})=>`${isActive?"text-orange-400":"text-white"}`}>
         Home 
